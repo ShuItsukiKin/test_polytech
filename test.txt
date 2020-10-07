@@ -1,0 +1,461 @@
+Отчёт о компьютере
+MINGW64_NT-10.0-18363 LAPTOP-VVSS7U9C 3.1.6-340.x86_64 2020-07-09 14:33 UTC x86_64 Msys
+Запущенные программы:
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+      431     294     431      18628  pty0      197609 20:42:46 /usr/bin/ps
+      294     293     294      16284  pty0      197609 20:10:01 /usr/bin/bash
+      293       1     293       7448  ?         197609 20:09:59 /usr/bin/mintty
+Процессор
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 92
+model name	: Intel(R) Celeron(R) CPU N3350 @ 1.10GHz
+stepping	: 9
+microcode	: 0x32
+cpu MHz		: 1100.000
+cache size	: 1024 KB
+physical id	: 0
+siblings	: 2
+core id		: 0
+cpu cores	: 1
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 21
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe aperfmperf pni pclmuldq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg cx16 xtpr pdcm sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave rdrand lahf_lm cat_l2 fsgsbase tsc_adjust smep erms mpx rdt_a rdseed smap clflushopt intel_pt sha_ni xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts arch_capabilities
+bogomips	: 2200.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 39 bits physical, 48 bits virtual
+power management:
+
+processor	: 1
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 92
+model name	: Intel(R) Celeron(R) CPU N3350 @ 1.10GHz
+stepping	: 9
+microcode	: 0x32
+cpu MHz		: 1100.000
+cache size	: 1024 KB
+physical id	: 0
+siblings	: 2
+core id		: 2
+cpu cores	: 1
+apicid		: 4
+initial apicid	: 4
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 21
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe aperfmperf pni pclmuldq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg cx16 xtpr pdcm sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave rdrand lahf_lm cat_l2 fsgsbase tsc_adjust smep erms mpx rdt_a rdseed smap clflushopt intel_pt sha_ni xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts arch_capabilities
+bogomips	: 2200.00
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 39 bits physical, 48 bits virtual
+power management:
+Память:
+MemTotal:        4054588 kB
+MemFree:          764476 kB
+HighTotal:             0 kB
+HighFree:              0 kB
+LowTotal:        4054588 kB
+LowFree:          764476 kB
+SwapTotal:       3143812 kB
+SwapFree:        2765592 kB
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  465G   61G  405G  13% /
+
+Текстовых файлов всего:
+385
+Список:
+
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/etc/package-versions.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/LICENSE.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/doc/git-credential-manager/LICENSE.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/8859-1.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/8859-10.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/8859-11.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/8859-13.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/8859-14.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/8859-15.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/8859-16.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/8859-2.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/8859-3.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/8859-4.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/8859-5.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/8859-6.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/8859-7.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/8859-8.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/8859-9.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/cp1250.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/cp1251.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/cp1252.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/cp437.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/cp850.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/cp852.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/cp862.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/cp864.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/cp866.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/koi8-r.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/koi8-u.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/MacCyrillic.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/MacRoman.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/roman.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/antiword/UTF-8.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/doc/connect/manual.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/doc/xz/examples/00_README.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/doc/xz/faq.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/doc/xz/history.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/doc/xz/lzma-file-format.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/doc/xz/xz-file-format.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/mingw64/share/git/builtins.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/gnupg/help.be.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/gnupg/help.ca.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/gnupg/help.cs.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/gnupg/help.da.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/gnupg/help.de.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/gnupg/help.el.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/gnupg/help.eo.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/gnupg/help.es.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/gnupg/help.et.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/gnupg/help.fi.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/gnupg/help.fr.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/gnupg/help.gl.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/gnupg/help.hu.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/gnupg/help.id.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/gnupg/help.it.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/gnupg/help.ja.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/gnupg/help.nb.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/gnupg/help.pl.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/gnupg/help.pt.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/gnupg/help.pt_BR.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/gnupg/help.ro.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/gnupg/help.ru.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/gnupg/help.sk.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/gnupg/help.sv.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/gnupg/help.tr.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/gnupg/help.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/gnupg/help.zh_CN.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/gnupg/help.zh_TW.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/licenses/ncurses/license.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/licenses/vim/license.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/perl5/core_perl/unicore/Blocks.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/perl5/core_perl/unicore/NamedSequences.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/perl5/core_perl/unicore/SpecialCasing.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/autoload/README.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/colors/README.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/compiler/README.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/arabic.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/autocmd.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/change.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/channel.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/cmdline.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/debug.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/debugger.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/develop.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/diff.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/digraph.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/editing.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/eval.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/farsi.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/filetype.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/fold.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/ft_ada.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/ft_rust.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/ft_sql.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/gui.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/gui_w32.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/gui_x11.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/hangulin.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/hebrew.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/help.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/helphelp.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/howto.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/if_cscop.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/if_lua.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/if_mzsch.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/if_ole.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/if_perl.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/if_pyth.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/if_ruby.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/if_sniff.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/if_tcl.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/indent.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/index.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/insert.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/intro.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/map.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/mbyte.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/message.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/mlang.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/motion.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/netbeans.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/options.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/os_390.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/os_amiga.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/os_beos.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/os_dos.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/os_haiku.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/os_mac.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/os_mint.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/os_msdos.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/os_os2.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/os_qnx.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/os_risc.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/os_unix.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/os_vms.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/os_win32.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/pattern.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/pi_getscript.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/pi_gzip.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/pi_logipat.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/pi_netrw.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/pi_paren.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/pi_spec.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/pi_tar.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/pi_vimball.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/pi_zip.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/popup.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/print.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/quickfix.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/quickref.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/quotes.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/recover.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/remote.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/repeat.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/rileft.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/russian.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/scroll.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/sign.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/spell.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/sponsor.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/starting.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/syntax.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/tabpage.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/tagsrch.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/term.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/terminal.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/testing.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/textprop.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/tips.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/todo.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/uganda.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/undo.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_01.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_02.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_03.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_04.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_05.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_06.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_07.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_08.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_09.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_10.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_11.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_12.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_20.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_21.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_22.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_23.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_24.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_25.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_26.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_27.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_28.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_29.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_30.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_31.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_32.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_40.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_41.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_42.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_43.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_44.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_45.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_90.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/usr_toc.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/various.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/version4.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/version5.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/version6.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/version7.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/version8.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/vim9.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/visual.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/vi_diff.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/windows.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/doc/workshop.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/ftplugin/README.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/indent/README.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/keymap/README.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/lang/README.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/macros/maze/README.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/macros/README.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/macros/urm/README.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/pack/dist/opt/matchit/doc/matchit.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/plugin/README.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/rgb.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/syntax/README.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/tools/ccfilter_README.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/tools/efm_filter.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/tools/mve.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/tools/README.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/tools/vimspell.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/tutor/README.el.cp737.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/tutor/README.el.txt
+/c/Users/Ксения/AppData/Local/Fork/gitInstance/2.26.2/usr/share/vim/vim82/tutor/README.txt
+/c/Users/Ксения/AppData/Local/Microsoft/Edge/User Data/Default/Service Worker/CacheStorage/3cedfb74d44f2e84198d23075aef16c34a668ceb/index.txt
+/c/Users/Ксения/AppData/Local/Microsoft/Edge/User Data/edge_shutdown_ms.txt
+/c/Users/Ксения/AppData/Local/Microsoft/Internet Explorer/brndlog.txt
+/c/Users/Ксения/AppData/Local/Microsoft/OneDrive/20.169.0823.0006/ThirdPartyNotices.txt
+/c/Users/Ксения/AppData/Local/Microsoft/OneDrive/logs/Common/telemetry-dll-ramp-value.txt
+/c/Users/Ксения/AppData/Local/Microsoft/OneDrive/logs/Personal/telemetry-dll-ramp-value.txt
+/c/Users/Ксения/AppData/Local/Microsoft/Windows/INetCache/IE/4U6VP33V/Q8D47XQ9.txt
+/c/Users/Ксения/AppData/Local/Microsoft/Windows/INetCache/IE/FWU70RDS/region[1].txt
+/c/Users/Ксения/AppData/Local/Packages/AD2F1837.HPPrinterControl_v10z8vjag6ke6/LocalState/Licenses/Apache 2.0.txt
+/c/Users/Ксения/AppData/Local/Packages/AD2F1837.HPPrinterControl_v10z8vjag6ke6/LocalState/Licenses/MIT License.txt
+/c/Users/Ксения/AppData/Local/Packages/AD2F1837.HPPrinterControl_v10z8vjag6ke6/LocalState/ModelNameMappersha1.txt
+/c/Users/Ксения/AppData/Local/Packages/AD2F1837.HPPrinterControl_v10z8vjag6ke6/LocalState/SortedTilesSha1.txt
+/c/Users/Ксения/AppData/Local/Packages/king.com.CandyCrushSaga_kgqvnymyfvs32/LocalState/MicrosoftStoreEngagementSDKId.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.DiscoveryNotificationTask10_07_18_39_05_7142.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.DiscoveryNotificationTask10_07_18_56_51_7318.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.DiscoveryNotificationTask10_07_19_08_55_3983.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.DiscoveryNotificationTask10_07_19_27_36_9180.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.DiscoveryNotificationTask10_07_19_38_03_4914.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.DiscoveryNotificationTask10_07_20_23_32_3545.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.DiscoveryNotificationTask10_07_20_38_02_0806.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.DiscoveryNotificationTask10_07_20_53_25_9147.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.DiscoveryNotificationTask10_07_21_08_57_5372.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.DiscoveryNotificationTask10_07_21_26_54_3243.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.DiscoveryNotificationTask10_07_21_38_03_5555.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.PostInstallationTask02_26_23_27_54_5910.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.PostInstallationTask06_06_19_50_28_2164.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.PostInstallationTask06_26_10_37_51_5190.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.PostInstallationTask11_10_17_12_28_7028.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.PostInstallationTask11_10_18_16_28_5131.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.OneConnect_8wekyb3d8bbwe/LocalState/DiagOutputDir/OneConnect.PostInstallationTask12_03_17_14_18_8767.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{69c4d690-a86f-4e2c-b8fd-443bcd39358f}/0.0.filtertrie.intermediate.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{69c4d690-a86f-4e2c-b8fd-443bcd39358f}/0.1.filtertrie.intermediate.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{69c4d690-a86f-4e2c-b8fd-443bcd39358f}/0.2.filtertrie.intermediate.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{7af4b727-c723-4b29-b59e-95d8387a6868}/0.0.filtertrie.intermediate.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{7af4b727-c723-4b29-b59e-95d8387a6868}/0.1.filtertrie.intermediate.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{7af4b727-c723-4b29-b59e-95d8387a6868}/0.2.filtertrie.intermediate.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{9158de5a-ba75-4534-9ede-2a540fc373d4}/0.0.filtertrie.intermediate.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{9158de5a-ba75-4534-9ede-2a540fc373d4}/0.1.filtertrie.intermediate.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Apps_{9158de5a-ba75-4534-9ede-2a540fc373d4}/0.2.filtertrie.intermediate.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Input_{2db84813-87e3-4988-8f94-5dbfa9073cf0}/appsconversions.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Input_{2db84813-87e3-4988-8f94-5dbfa9073cf0}/appsglobals.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Input_{2db84813-87e3-4988-8f94-5dbfa9073cf0}/appssynonyms.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Input_{2db84813-87e3-4988-8f94-5dbfa9073cf0}/settingsconversions.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Input_{2db84813-87e3-4988-8f94-5dbfa9073cf0}/settingsglobals.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Input_{2db84813-87e3-4988-8f94-5dbfa9073cf0}/settingssynonyms.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Input_{a09cbf6c-6191-42fb-8064-b5dbb1514eb4}/appsconversions.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Input_{a09cbf6c-6191-42fb-8064-b5dbb1514eb4}/appsglobals.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Input_{a09cbf6c-6191-42fb-8064-b5dbb1514eb4}/appssynonyms.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Input_{a09cbf6c-6191-42fb-8064-b5dbb1514eb4}/settingsconversions.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Input_{a09cbf6c-6191-42fb-8064-b5dbb1514eb4}/settingsglobals.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Input_{a09cbf6c-6191-42fb-8064-b5dbb1514eb4}/settingssynonyms.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Settings_{033cee13-f28e-4880-abbf-1a49a83ff794}/0.0.filtertrie.intermediate.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Settings_{033cee13-f28e-4880-abbf-1a49a83ff794}/0.1.filtertrie.intermediate.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Settings_{033cee13-f28e-4880-abbf-1a49a83ff794}/0.2.filtertrie.intermediate.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Settings_{9943d147-2475-498d-8a09-1d7b0087a3f4}/0.0.filtertrie.intermediate.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Settings_{9943d147-2475-498d-8a09-1d7b0087a3f4}/0.1.filtertrie.intermediate.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/ConstraintIndex/Settings_{9943d147-2475-498d-8a09-1d7b0087a3f4}/0.2.filtertrie.intermediate.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/DeviceSearchCache/AppCache132465682448677749.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.Windows.Cortana_cw5n1h2txyewy/LocalState/DeviceSearchCache/SettingsCache.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.XboxGameOverlay_8wekyb3d8bbwe/LocalState/DiagOutputDir/LogFile_April_7_2020__6_38_12.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.XboxGameOverlay_8wekyb3d8bbwe/LocalState/DiagOutputDir/LogFile_December_13_2019__5_38_10.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.XboxGameOverlay_8wekyb3d8bbwe/LocalState/DiagOutputDir/LogFile_December_7_2019__4_44_15.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.XboxGameOverlay_8wekyb3d8bbwe/LocalState/DiagOutputDir/LogFile_January_18_2020__7_55_11.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.XboxGameOverlay_8wekyb3d8bbwe/LocalState/DiagOutputDir/LogFile_January_19_2020__3_44_46.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.XboxGameOverlay_8wekyb3d8bbwe/LocalState/DiagOutputDir/LogFile_January_26_2020__11_11_36.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.XboxGameOverlay_8wekyb3d8bbwe/LocalState/DiagOutputDir/LogFile_June_6_2020__8_5_4.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.XboxGameOverlay_8wekyb3d8bbwe/LocalState/DiagOutputDir/LogFile_November_10_2019__5_56_27.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.XboxGameOverlay_8wekyb3d8bbwe/LocalState/DiagOutputDir/LogFile_November_15_2019__3_57_59.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.XboxGameOverlay_8wekyb3d8bbwe/LocalState/DiagOutputDir/LogFile_November_23_2019__8_19_41.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.XboxGamingOverlay_8wekyb3d8bbwe/TempState/XboxGamingOverlayTraces_20201007175917.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.XboxGamingOverlay_8wekyb3d8bbwe/TempState/XboxGamingOverlayTraces_FT_20201007175922.txt
+/c/Users/Ксения/AppData/Local/Packages/Microsoft.XboxGamingOverlay_8wekyb3d8bbwe/TempState/XboxGamingOverlayTraces_FT_Server_20201007175922.txt
+/c/Users/Ксения/AppData/Local/Temp/lesson03/test_polytech/PrekrasnoyeDalyoko.txt
+/c/Users/Ксения/AppData/Local/Temp/lesson03/test_polytech/spisok.txt
+/c/Users/Ксения/AppData/Local/Temp/lesson03/test_polytech/test.txt
+/c/Users/Ксения/AppData/Local/Temp/lesson03/test_polytech/text.txt
+/c/Users/Ксения/AppData/Local/Temp/RDR7DFE.tmp/empty.txt
+/c/Users/Ксения/AppData/Local/Temp/RDR7E2F.tmp/empty.txt
+/c/Users/Ксения/AppData/Local/Temp/skype-preview Crashes/operation_log.txt
+/c/Users/Ксения/AppData/Local/Yandex/SearchBand/Application/5.5.0.1923/branding/voiceactivation/full-alice/flags.txt
+/c/Users/Ксения/AppData/Local/Yandex/SearchBand/Application/5.5.0.1923/branding/voiceactivation/full-alice/words.txt
+/c/Users/Ксения/AppData/Local/Yandex/SearchBand/Application/5.5.0.1923/branding/voiceactivation/full-yandex/flags.txt
+/c/Users/Ксения/AppData/Local/Yandex/SearchBand/Application/5.5.0.1923/branding/voiceactivation/full-yandex/words.txt
+/c/Users/Ксения/AppData/Local/Yandex/SearchBand/Application/5.5.0.1923/branding/voiceactivation/simple/flags.txt
+/c/Users/Ксения/AppData/Local/Yandex/SearchBand/Application/5.5.0.1923/branding/voiceactivation/simple/words.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.8.2.95/ntp/CacheStorage/308397d12cd2a707417a061cb3e067de50902fa6/index.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.8.2.95/resources/easylist/easylist.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.8.2.95/voiceactivation/full-alice1/flags.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.8.2.95/voiceactivation/full-alice1/words.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.8.2.95/voiceactivation/full-alice2/flags.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.8.2.95/voiceactivation/full-alice2/words.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.8.2.95/voiceactivation/full-alice3/flags.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.8.2.95/voiceactivation/full-alice3/words.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.8.2.95/voiceactivation/full-yandex1/flags.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.8.2.95/voiceactivation/full-yandex1/words.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.8.3.112/ntp/CacheStorage/308397d12cd2a707417a061cb3e067de50902fa6/index.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.8.3.112/resources/easylist/easylist.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.8.3.112/voiceactivation/full-alice1/flags.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.8.3.112/voiceactivation/full-alice1/words.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.8.3.112/voiceactivation/full-alice2/flags.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.8.3.112/voiceactivation/full-alice2/words.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.8.3.112/voiceactivation/full-alice3/flags.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.8.3.112/voiceactivation/full-alice3/words.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.8.3.112/voiceactivation/full-yandex1/flags.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.8.3.112/voiceactivation/full-yandex1/words.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.9.0.928/ntp/CacheStorage/308397d12cd2a707417a061cb3e067de50902fa6/index.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.9.0.928/resources/easylist/easylist.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.9.0.928/voiceactivation/full-alice1/flags.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.9.0.928/voiceactivation/full-alice1/words.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.9.0.928/voiceactivation/full-alice2/flags.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.9.0.928/voiceactivation/full-alice2/words.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.9.0.928/voiceactivation/full-alice3/flags.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.9.0.928/voiceactivation/full-alice3/words.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.9.0.928/voiceactivation/full-yandex1/flags.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/Application/20.9.0.928/voiceactivation/full-yandex1/words.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/User Data/Default/Service Worker/CacheStorage/0012649c57c16e9b7e935427a78d655514b40af1/index.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/User Data/Default/Service Worker/CacheStorage/08c7de082db9be2e2569d9f5d9fea7c240142e82/index.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/User Data/Default/Service Worker/CacheStorage/09890d2cba3fa01b3a9bd9ee0ca15e72feb02a15/index.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/User Data/Default/Service Worker/CacheStorage/0d4e9b26b29b3d98d752441f5bd48c75832617b1/index.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/User Data/Default/Service Worker/CacheStorage/1c40fe0fc7f289003d36b25acacc07f9af2e36b1/index.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/User Data/Default/Service Worker/CacheStorage/2b5c392d2730c0910fd56433cc5e73e510d0f2b4/index.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/User Data/Default/Service Worker/CacheStorage/355690543901cc08c45dface808d8446dd9e58ee/index.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/User Data/Default/Service Worker/CacheStorage/36dcec9ef4b2634fcfce406f466684f60cae0eeb/index.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/User Data/Default/Service Worker/CacheStorage/3e19a082535f6d2f54044a0271521b38564647c0/index.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/User Data/Default/Service Worker/CacheStorage/3ea2bc845ffc3367dc912e20ec1088f6edb52b83/index.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/User Data/Default/Service Worker/CacheStorage/474860878877de453cdbbb3a867cc6786ed93650/index.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/User Data/Default/Service Worker/CacheStorage/4ca75baabbe6b4e7133d7fff781efe9f5269a2b1/index.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/User Data/Default/Service Worker/CacheStorage/579544fd7d0441717f082c9eb123588966aa57ac/index.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/User Data/Default/Service Worker/CacheStorage/65d5193186211eecac51442a8b02db4b6d0adcbe/index.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/User Data/Default/Service Worker/CacheStorage/66b5b4edd27517f8cbd3adb25078d6a95aed8636/index.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/User Data/Default/Service Worker/CacheStorage/76ef9e5953a1ba4578548bb32235240a9f0e0ca2/index.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/User Data/Default/Service Worker/CacheStorage/8f7abdeb3486c1b8780fede76afc20e044eff1b5/index.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/User Data/Default/Service Worker/CacheStorage/b179c7b416052cc6da17545cae82cb5a7ab2412c/index.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/User Data/Default/Service Worker/CacheStorage/c74e9ca3a430d573aeea6e3877c1633abb77927b/index.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/User Data/Default/Service Worker/CacheStorage/df10055077ba6d055202a286871492a294099fa5/index.txt
+/c/Users/Ксения/AppData/Local/Yandex/YandexBrowser/User Data/Default/Service Worker/CacheStorage/efb5023a1630344583faab602ea42e0ca473b65d/index.txt
+/c/Users/Ксения/AppData/Roaming/Microsoft/Windows/PowerShell/PSReadLine/ConsoleHost_history.txt
+/c/Users/Ксения/AppData/Roaming/WTablet/WDCLogFile.txt
+/c/Users/Ксения/AppData/Roaming/Zoom/appsafecheck.txt
+/c/Users/Ксения/AppData/Roaming/Zoom/bin/directui_license.txt
+/c/Users/Ксения/AppData/Roaming/Zoom/bin/duilib_license.txt
+/c/Users/Ксения/AppData/Roaming/Zoom/bin/nanosvg_LICENSE.txt
+/c/Users/Ксения/AppData/Roaming/Zoom/installer.txt
+/c/Users/Ксения/Desktop/Steam.Prison/README.txt
+/c/Users/Ксения/Desktop/Steam.Prison/Steam Prison/Fonts/OFL-1.1.txt
+/c/Users/Ксения/Desktop/Steam.Prison/Steam Prison/README.txt
+/c/Users/Ксения/Desktop/Долги.txt
+/c/Users/Ксения/lesson03/horror.txt
+/c/Users/Ксения/MicrosoftEdgeBackups/backups/MicrosoftEdgeBackup20200905/DatastoreBackup/schema.txt
+/c/Users/Ксения/MicrosoftEdgeBackups/backups/MicrosoftEdgeBackup20200905/MicrosoftEdgeSettingsBackup.txt
+/c/Users/Ксения/test_polytech/PrekrasnoyeDalyoko.txt
